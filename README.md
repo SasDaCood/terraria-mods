@@ -1,2 +1,2 @@
 # terraria-mods
-Attempts at learning to make tModLoader mods.
+**Mementos:** "learner" mod with random stuff, made back in 2020 while doing a Terraria playthrough
