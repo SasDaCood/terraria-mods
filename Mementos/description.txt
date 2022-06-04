@@ -1,0 +1,5 @@
+adds a buncha random stuff
+1) custom music box for playing music ingame (currently just Tokyo Skies)
+2) player death dramaticised by flashy dust
+3) custom death sfx
+4) wacky shortsword that shoots out a wacky projectile with wacky sfx
